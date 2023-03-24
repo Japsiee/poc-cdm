@@ -1,0 +1,1 @@
+export interface IAppLayout {children: JSX.Element};

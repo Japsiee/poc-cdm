@@ -1,0 +1,1 @@
+export interface IProviders {children: JSX.Element};

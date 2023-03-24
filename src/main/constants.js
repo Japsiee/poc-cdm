@@ -1,0 +1,1 @@
+export const DEFAULT_WINDOWS_SIZE = [850, 550];

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(/assets/fonts/Inter-Regular.ttf);
+}
+
+* {
+  font-family: "Inter";
+  user-select: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+.AppBar {
+  -webkit-app-region: drag;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 2px 8px;
+  background-color: #ADB5BD;
+  color: #F8F9FA;
+  font-size: 13px;
+}
